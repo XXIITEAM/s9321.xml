@@ -1,0 +1,8 @@
+<manifest>
+<!-- ajoute les sources du kernel -->
+<project name="XXIITEAM/android_kernel_symphony_s9321" path="kernel/symphony/s9321" remote="github" revision="cm-11.0"/>
+<!-- ajoute les sources du device -->
+<project name="XXIITEAM/android_device_symphony_s9321" path="device/symphony/s9321" remote="github" revision="cm-11.0"/>
+<!-- ajoute les fichiers propriétaires -->
+<project name="XXIITEAM/android_vendor_symphony_s9321" path="vendor/symphony/s9321" remote="github" revision="cm-11.0"/>
+</manifest>
